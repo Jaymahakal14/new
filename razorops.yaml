@@ -22,5 +22,5 @@ tasks:
         pip install telebot pymongo aiohttp psutil && \
         pip install motor && \
         chmod +x * && \
-        echo "Starting sharp.py execution" && \
-        python3 sharp.py
+        echo "Starting m.py execution" && \
+        python3 m.py
